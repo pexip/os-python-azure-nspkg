@@ -1,0 +1,5 @@
+python-azure-nspkg (1.0.0-1) pexip; urgency=low
+
+  * Initial release
+
+ -- John-Mark Bell <jmb@pexip.com>  Fri, 18 Mar 2016 20:03:42 +0000
