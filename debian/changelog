@@ -1,3 +1,9 @@
+python-azure-nspkg (1.0.0-2) pexip; urgency=low
+
+  * No-change rebuild
+
+ -- John-Mark Bell <jmb@pexip.com>  Mon, 30 Jan 2017 18:00:13 +0000
+
 python-azure-nspkg (1.0.0-1) pexip; urgency=low
 
   * Initial release
